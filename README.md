@@ -38,6 +38,6 @@ https://blooming-hollows-24158.herokuapp.com/
 
 
 ## Screenshot of App
-![alt text](./images/text-editor.png "Title")
+![alt text](./images/texteditor.png "Title")
 
 
